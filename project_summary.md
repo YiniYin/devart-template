@@ -4,6 +4,8 @@
 - Airfly Pan
 - Yini Yin
 - River Yan
+- Alex Tan
+- Selma Lu
 
 ## Description
 The Sound Maps is trying to reconstruct an acoustical image of a city by recording various sounds at different times of the day. From the crack fo the dawn to mid-night. Sounds that are eligible for collection could come from birds, wind, traffic during peak hours, street musician, etc.
